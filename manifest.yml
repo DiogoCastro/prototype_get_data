@@ -1,4 +1,4 @@
 applications:
 - name: prototype-get-data
   random-route: true
-  memory: 256M
+  memory: 128M
